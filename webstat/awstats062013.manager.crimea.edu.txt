@@ -1,0 +1,370 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201306 will be lost/reset.
+# Last config file used to build this data file was /usr/local/etc/awstats/awstats.manager.crimea.edu.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2008                
+POS_TIME 2681                
+POS_VISITOR 6429                
+POS_DAY 6720                
+POS_DOMAIN 3386                
+POS_LOGIN 3619                
+POS_ROBOT 3774                
+POS_WORMS 3994                
+POS_EMAILSENDER 4125                
+POS_EMAILRECEIVER 4268                
+POS_SESSION 7121                
+POS_SIDER 7327                
+POS_FILETYPES 4403                
+POS_DOWNLOADS 4629                
+POS_OS 4700                
+POS_BROWSER 4758                
+POS_SCREENSIZE 4913                
+POS_UNKNOWNREFERER 4987                
+POS_UNKNOWNREFERERBROWSER 5074                
+POS_ORIGIN 5156                
+POS_SEREFERRALS 5295                
+POS_PAGEREFS 5450                
+POS_SEARCHWORDS 5632                
+POS_KEYWORDS 5784                
+POS_MISC 2344                
+POS_ERRORS 5843                
+POS_CLUSTER 3475                
+POS_SIDER_404 5951                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130701090556 1 0 14033885429067
+FirstTime 20130603150131
+LastTime 20130630195650
+LastUpdate 20130702000222 1 0 0 0 0
+TotalVisits 30                  
+TotalUnique 5                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 5                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 11 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 84 1805 3707271 11 19 107966
+1 0 0 0 1 15 85571
+2 0 0 0 10 29 362521
+3 0 0 0 1 2 21469
+4 0 0 0 2 4 42938
+5 0 0 0 3 6 52232
+6 0 0 0 1 4 47977
+7 0 0 0 0 1 1561
+8 0 0 0 0 7 29111
+9 7 219 132242 4 5 38621
+10 60 874 3464559 19 24 112986
+11 1 1 21774 2 3 15827
+12 27 452 1356626 10 17 142054
+13 34 292 1434370 5 6 1150
+14 65 383 3249992 3 7 65557
+15 12 72 720078 1 27 138584
+16 0 0 0 3 6 64407
+17 0 0 0 2 7 56387
+18 0 0 0 0 10 50977
+19 15 506 1505225 2 3 23240
+20 56 1563 2509143 12 16 43098
+21 63 1219 3800262 7 9 2300
+22 59 1646 3459152 9 12 45398
+23 120 1887 5766331 15 17 26159
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 603 10919 31127025
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+googlebot 107 877399 20130630115219 16
+bot[\s_+:,\.\;\/\\-] 63 643403 20130627230910 33
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 5458 2783267 0 0
+png 1133 793537 0 0
+html 127 2806563 0 0
+ico 10 10350 0 0
+js 3334 8330063 0 0
+jpg 308 4027744 0 0
+Unknown 476 12214835 0 0
+gif 73 160666 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 49 0 76489
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 2
+linux 3
+win7 10916
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 6
+firefox21.0 8094
+chrome27.0.1453.94 65
+firefox18.0 3
+chrome27.0.1453.116 1396
+opera9.80 856
+msie10.0 505
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 81 153
+From1 0 0
+From2 3 3
+From3 1 1
+From4 518 10762
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://e.mail.ru/cgi-bin/link 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 2 20226
+302 65 0
+404 8 25563
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 3
+/sites/default/files/ 3 -
+/sites/default/files/languages/ru_Qq63CWOSm1dw2uBXgVi0ebLF-h7PkiTlvP63ZZYyUrA.js 2 http://manager.crimea.edu/
+/content/img/kramarenko2.jpg 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 5
+91.214.128.18 411 9140 21846534 20130630195650
+80.245.119.130 170 1665 8110898 20130627143411
+194.187.148.218 20 111 1145446 20130626145909
+217.69.135.241 1 1 16688 20130603201526
+217.69.133.186 1 2 7459 20130628204035
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20130603 24 770 2826256 3
+20130604 22 181 743103 3
+20130605 4 135 503161 1
+20130606 3 103 74689 1
+20130609 1 44 428472 1
+20130619 20 120 746720 3
+20130620 6 183 529877 1
+20130623 2 71 32706 1
+20130624 196 4280 9734991 1
+20130625 51 851 2961615 3
+20130626 95 1571 3508051 6
+20130627 177 2584 8612002 4
+20130628 1 2 7459 1
+20130630 1 24 417923 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 4
+5mn-15mn 2
+15mn-30mn 3
+30s-2mn 5
+2mn-5mn 3
+0s-30s 11
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 99
+/ 127 2806563 23 15
+/content/about 33 488333 1 3
+/content/struktura 32 761892 0 1
+/ckeditor/xss 28 181920 0 1
+/admin/structure/block 23 2087105 0 0
+/news 20 282613 0 1
+/overlay-ajax/page_bottom 18 16326 0 0
+/user 16 323377 3 2
+/content/abiturientam 15 175862 0 2
+/content/dekanat 13 160792 0 1
+/admin/reports/status 3 60365 0 0
+/content/nauchnaya-deyatelnost 3 65623 0 0
+/js/admin_menu/cache/eb0c6ebed9a4584b82eb9bd9a7e5ee59 1 5190 0 0
+/admin/structure/menu/manage/menu-left-menu/edit 1 11875 0 0
+/content/vstrechi-studentov-s-predstavitelem-vr-ar-krym 8 153391 0 0
+/admin/structure/menu/manage/menu-left-menu 2 40052 0 0
+/contact 4 43781 0 0
+/node/add/article 4 162689 0 0
+/admin/reports/search 1 10357 0 0
+/user/login 1 12998 0 0
+/admin/structure/views/add 2 60260 0 0
+/content/nash-dosug 4 47367 0 0
+/admin/structure/types/add 1 37826 0 0
+/content/o-predvaritelnom-otbore-studentov-na-sovmestnuyu-magisterskuyu-programmu 3 39310 0 0
+/admin/appearance/settings 3 54155 0 0
+/content/pravila-priema-tavricheskogo-nacionalnogo-universiteta-imeni-vi-vernadskogo-v-2013-godu 5 64682 0 1
+/admin/structure/block/manage/system/main-menu/configure 2 44550 0 0
+/admin/structure/views/view/informations_articles/edit 1 41490 0 0
+/admin/structure/block/manage/block/2/configure 1 31317 0 0
+/admin/structure/menu 1 13002 0 0
+/content/kafedra-menedzhmenta-predprinimatelskoy-deyatelnosti 9 800370 0 0
+/admin/config/development/performance 4 58430 0 0
+/content/nabor-v-angloyazychnuyu-norvezhsko-ukrainskuyu-magistraturu 2 25523 0 0
+/js/admin_menu/cache/528e9afc3b22aea00cd63acfc2f42a33 1 5068 0 0
+/js/admin_menu/cache/c1065c4716f2bb235643f71b4ac75b85 6 31008 0 0
+/admin/reports/dblog 1 37900 0 0
+/admin/structure/menu/manage/main-menu/list 1 102865 0 0
+/admin/structure/views/ajax/display/informations_articles/page/row_options 1 4398 0 0
+/admin/structure/views/ajax/display/ads/block/row_plugin 2 7630 0 0
+/node/add/information-article 2 65169 0 0
+/admin/structure/block/manage/block/1/configure 6 197344 0 0
+/content/konferencii 3 60221 0 0
+/js/admin_menu/cache/dcb48bcc2f4e52e51b496b9e2d25fea9 2 10158 0 0
+/node/29/edit 4 125619 0 0
+/admin/structure/types/manage/ads/fields/body 1 30850 0 0
+/admin/appearance/settings/fm 3 54334 0 0
+/node/30/edit 2 96554 0 0
+/content/istoriya 4 66773 0 0
+/content/vypusknikam 10 111979 0 1
+/node/add/page 2 71043 0 0
+/js/admin_menu/cache/c8fc50fa7810a68bbc6a9d04943966fd 6 30426 1 1
+/js/admin_menu/cache/a8771a0a4c7ec6db9050d7556875c7ec 2 5084 0 0
+/admin/structure/block/add 4 133214 0 0
+/admin/structure/views/view/informations_articles 1 41406 0 0
+/admin/config/search 1 9636 0 0
+/admin/config/content/formats 2 32182 0 0
+/search/node/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8 1 12765 0 0
+/admin/structure/views/view/ads 3 123923 0 0
+/js/admin_menu/cache/57ba45001e2a4105eff53ab3a09cf891 3 15516 0 0
+/js/admin_menu/cache/e5be5819ccecfcca98afa628f83d204e 1 5074 0 0
+/admin/config/search/settings 1 21460 0 0
+/admin/structure/views 2 66762 0 0
+/forumy/forum 4 45790 0 0
+/admin/structure/block/manage/menu/menu-left-menu/configure 1 22302 0 0
+/system/ajax 2 51076 0 0
+/js/admin_menu/cache/872a13bad714b53e31899b7d2ba5b161 2 10344 0 0
+/users/admin 11 461634 0 0
+/content/kafedra-gosudarstvennogo-i-regionalnogo-upravleniya 10 344019 1 1
+/admin/structure/types/manage/ads/fields 5 163661 0 0
+/content/kafedra-menedzhmenta-i-marketinga 7 125346 0 0
+/js/admin_menu/cache/81fc9e699c46886b91a0fd9dad45b7b6 7 35483 0 0
+/node/34/edit 3 304211 1 0
+/admin/structure/menu/manage/main-menu 7 748502 0 0
+/node/add 4 50385 0 0
+/admin/reports/updates 1 23056 0 0
+/admin/reports/updates/update 1 11808 0 0
+/admin/config/system/site-information 3 44426 0 0
+/content/specialnosti-i-specializacii 3 37753 0 0
+/content/doska-obyavleniy 1 12147 0 0
+/content/napravleniya-i-specialnosti-fakulteta 7 141674 0 0
+/js/admin_menu/cache/597166cf771102a84b6a12258c0d2ab1 1 5084 0 0
+/admin/config/media/file-types/manage/video/file-display 6 345339 0 0
+/content/poslediplomnoe-obrazovanie 1 12373 0 0
+/admin/structure/menu/parents 2 1321 0 0
+/js/admin_menu/cache/da17e97afb22bac3993870200c9344b3 2 10346 0 0
+/content/aspirantura 2 24727 0 0
+/admin/structure/types/manage/ads/fields/field_ads_picture 1 30372 0 0
+/content/zaochnoe-otdelenie 3 37531 0 0
+/js/admin_menu/cache/f9c27718201806275cf7db75a2a25976 3 15429 0 0
+/admin/config/media/file-types 3 33246 0 0
+/node/27/edit 1 43260 0 0
+/node/26/edit 1 64610 0 0
+/admin/content 10 438810 0 0
+/admin/structure/types/manage/ads/fields/field_ads_picture/field-settings 1 16040 0 0
+/content/kafedra-menedzhmenta-vneshneekonomicheskoy-deyatelnosti 9 434810 0 0
+/admin/structure/menu/manage/main-menu/edit 3 36405 0 0
+/search/node/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0 1 12454 0 0
+/content/mezhdunarodnye-proekty 4 74802 0 0
+/js/admin_menu/cache/b99dc1499608e984b37be34153594a6f 1 5075 0 0
+END_SIDER

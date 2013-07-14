@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/manager.crimea.edu/webstat"
+AuthUserFile /home/manager/data/etc/31781381.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

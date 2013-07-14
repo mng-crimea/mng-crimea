@@ -1,0 +1,320 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201212 will be lost/reset.
+# Last config file used to build this data file was /usr/local/etc/awstats/awstats.manager.crimea.edu.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2008                
+POS_TIME 2680                
+POS_VISITOR 6971                
+POS_DAY 7669                
+POS_DOMAIN 3295                
+POS_LOGIN 3525                
+POS_ROBOT 3680                
+POS_WORMS 3926                
+POS_EMAILSENDER 4057                
+POS_EMAILRECEIVER 4200                
+POS_SESSION 7986                
+POS_SIDER 8165                
+POS_FILETYPES 4335                
+POS_DOWNLOADS 4553                
+POS_OS 4970                
+POS_BROWSER 5072                
+POS_SCREENSIZE 5278                
+POS_UNKNOWNREFERER 5352                
+POS_UNKNOWNREFERERBROWSER 5439                
+POS_ORIGIN 5521                
+POS_SEREFERRALS 5658                
+POS_PAGEREFS 5802                
+POS_SEARCHWORDS 6368                
+POS_KEYWORDS 6520                
+POS_MISC 2343                
+POS_ERRORS 6579                
+POS_CLUSTER 3381                
+POS_SIDER_404 6662                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130109053729 1 0 9922485367934
+FirstTime 20121201083709
+LastTime 20121228081642
+LastUpdate 20130110000219 1 0 0 0 0
+TotalVisits 25                  
+TotalUnique 15                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 15                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 16 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 2 29190
+1 0 0 0 0 0 0
+2 0 0 0 1 2 18901
+3 0 0 0 16 16 260120
+4 0 0 0 0 0 0
+5 0 0 0 1 2 18901
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 44 154 1626494 1 4 3450
+9 0 0 0 1 1 17340
+10 1 4 17340 0 0 0
+11 4 93 366037 0 1 1150
+12 2 32 329086 0 1 1150
+13 3 41 448303 0 1 1150
+14 5 36 361178 0 1 1150
+15 6 130 1417784 0 3 3450
+16 21 58 649070 0 1 1150
+17 0 0 0 0 0 0
+18 5 100 1198072 0 2 2300
+19 4 94 946071 1 2 18490
+20 0 0 0 0 0 0
+21 7 130 681574 1 3 18490
+22 3 70 374033 0 0 0
+23 0 0 0 2 3 35847
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 105 942 8415042
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+msnbot 18 279021 20121201032028 1
+bot[\s_+:,\.\;\/\\-] 7 83938 20121227054745 3
+facebook 3 52020 20121225211237 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 421 773506 0 0
+png 245 834009 0 0
+html 11 142791 0 0
+js 131 2144212 0 0
+jpg 30 2449585 0 0
+docx 5 122327 0 0
+Unknown 89 1248392 0 0
+doc 10 700220 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 8
+/robots.txt 4 0 6244
+/sites/default/files/novikov_a.s.doc 3 0 225792
+/sites/default/files/litvin_yu.a.doc 2 0 164864
+/sites/default/files/antonova_o.s.doc 1 0 74240
+/sites/default/files/romashova_a.v.doc 1 0 69632
+/sites/default/files/belyalova_roza.doc 1 0 65536
+/sites/default/files/a._fedorova.doc 1 0 67072
+/sites/default/files/mihaylichenko_kristina.doc 1 0 33084
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 6
+macosx 161
+winlong 33
+winxp 65
+j2me 33
+linuxdebian 37
+win7 613
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 10
+iphone 31
+iceweasel 37
+firefox17.0 63
+firefox16.0 93
+safari5.1 32
+safari6.0 98
+chrome23.0.1271.97 33
+firefox3.0.19 94
+opera9.80 247
+chrome23.0.1271.95 214
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 12 13
+From1 0 0
+From2 0 0
+From3 20 20
+From4 73 909
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+http://www.facebook.com 7 7
+http://www.facebook.com/l.php 2 2
+http://m.facebook.com/l.php 2 2
+http://vk.com/id29105482 2 2
+http://www.facebook.com/abcmanagers 2 2
+http://vk.com/im 1 1
+http://www.facebook.com/l/4AQHU0dPJAQGBK9X0X5Xg3HVoj5SZgqdOJwvcvQmJ9PXMzg/www.manager.crimea.edu/content/effektivnoe-upravlenie-ekonomikoy 1 1
+http://e.mail.ru/cgi-bin/link 1 1
+https://www.facebook.com 1 1
+https://m.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+302 1 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 15
+80.245.119.130 66 213 2223577 20121228081642
+188.231.242.3 10 136 1032999 20121225211235
+80.245.117.5 4 94 948240 20121210183200
+91.216.240.1 4 38 369243 20121202140055
+91.214.128.123 4 93 366037 20121204110729
+91.214.128.19 3 43 84359 20121203222524
+88.135.124.118 3 35 403688 20121210185104
+93.74.76.101 2 32 324354 20121201221549
+217.212.231.204 2 33 360001 20121204155106
+77.121.136.15 2 63 402181 20121225215137
+31.135.106.208 1 32 375113 20121201083709
+88.154.106.52 1 32 343051 20121205152753
+91.210.148.163 1 31 309577 20121201152847
+31.135.98.155 1 34 484807 20121225182455
+77.120.148.221 1 33 387815 20121205153316
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20121201 9 163 1682387 7
+20121202 6 44 486355 2
+20121203 1 38 49679 1
+20121204 6 126 726038 2
+20121205 2 65 730866 2
+20121206 2 33 323126 1
+20121207 38 85 867526 1
+20121210 8 100 818646 3
+20121225 7 193 1697494 4
+20121226 21 58 649070 1
+20121228 5 37 383855 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+2mn-5mn 3
+30s-2mn 5
+0s-30s 16
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 26
+/content/effektivnoe-upravlenie-ekonomikoy 27 468020 19 16
+/ 11 142791 5 0
+/news 6 70908 0 0
+/content/struktura 6 129270 0 1
+/content/about 6 80504 0 0
+/content/nash-dosug 5 51135 0 0
+/forumy/forum 5 48935 0 1
+/content/abiturientam 5 53060 0 0
+/content/dekanat 4 42304 0 0
+/content/vypusknikam 4 41420 0 0
+/content/raspisanie 1 10319 0 1
+/content/doska-obyavleniy 2 20706 0 0
+/sites/default/files/ivanova_a.s.docx 1 53755 0 1
+/user/1 1 19310 0 1
+/user 2 30581 1 1
+/content/konferencii 1 18218 0 0
+/contact 2 23250 0 0
+/content/poslediplomnoe-obrazovanie 2 21798 0 0
+/content/istoriya 1 14933 0 0
+/content/aspirantura 2 21416 0 0
+/content/zaochnoe-otdelenie 2 21574 0 0
+/sites/default/files/useinova_elmaz.docx 2 39018 0 1
+/sites/default/files/kurochkina_anastasiya.docx 2 29554 0 1
+/content/novyy-sayt-fakulteta-upravleniya 2 21940 0 1
+/content/specialnosti-i-specializacii 2 21852 0 0
+/content/mezhdunarodnye-proekty 1 16939 0 0
+END_SIDER

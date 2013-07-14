@@ -1,0 +1,285 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201303 will be lost/reset.
+# Last config file used to build this data file was /usr/local/etc/awstats/awstats.manager.crimea.edu.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2008                
+POS_TIME 2666                
+POS_VISITOR 6380                
+POS_DAY 6584                
+POS_DOMAIN 3266                
+POS_LOGIN 3496                
+POS_ROBOT 3651                
+POS_WORMS 3832                
+POS_EMAILSENDER 3963                
+POS_EMAILRECEIVER 4106                
+POS_SESSION 6716                
+POS_SIDER 6894                
+POS_FILETYPES 4241                
+POS_DOWNLOADS 4454                
+POS_OS 4844                
+POS_BROWSER 4892                
+POS_SCREENSIZE 5005                
+POS_UNKNOWNREFERER 5079                
+POS_UNKNOWNREFERERBROWSER 5166                
+POS_ORIGIN 5248                
+POS_SEREFERRALS 5384                
+POS_PAGEREFS 5528                
+POS_SEARCHWORDS 5705                
+POS_KEYWORDS 5857                
+POS_MISC 2330                
+POS_ERRORS 5916                
+POS_CLUSTER 3352                
+POS_SIDER_404 6013                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130401034018 1 0 9858095326851
+FirstTime 0
+LastTime 20130317233043
+LastUpdate 20130402000219 1 0 0 0 0
+TotalVisits 5                   
+TotalUnique 3                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 3                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 9156
+1 0 0 0 1 2 18352
+2 0 0 0 1 2 18357
+3 0 0 0 0 0 0
+4 0 0 0 1 2 18352
+5 0 0 0 1 2 18357
+6 0 0 0 3 5 45865
+7 0 0 0 2 4 36714
+8 0 0 0 2 3 27513
+9 0 0 0 3 6 55056
+10 0 0 0 1 2 18352
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 4 6 55016
+14 0 0 0 1 2 18357
+15 0 0 0 3 5 53500
+16 0 0 0 1 1 9156
+17 58 172 2216761 9 11 21035
+18 22 22 419493 9 11 46812
+19 2 2 43847 3 6 55066
+20 32 32 954698 10 13 47443
+21 4 104 554217 2 5 37854
+22 0 0 0 0 0 0
+23 9 331 1982945 1 3 2300
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 127 663 6171961
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+bot[\s_+:,\.\;\/\\-] 57 516429 20130331154858 29
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 278 410434 0 0
+png 79 192552 0 0
+html 10 199106 0 0
+js 160 1565724 0 0
+jpg 11 773806 0 0
+Unknown 117 2587595 0 0
+doc 6 439296 0 0
+gif 2 3448 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 7
+/robots.txt 29 0 45269
+/sites/default/files/kareva_oksana.doc 1 0 76288
+/sites/default/files/romashova_a.v.doc 1 0 69632
+/sites/default/files/bagramyan_c.yu.doc 1 0 69632
+/sites/default/files/shabanova_elmaz_mustafaevna.doc 1 0 76288
+/sites/default/files/mihaylichenko_kristina.doc 1 0 69632
+/sites/default/files/kachanov_roman.doc 1 0 77824
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 1
+win7 663
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 3
+chrome25.0.1364.152 228
+firefox19.0 396
+chrome25.0.1364.172 39
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 10 12
+From1 0 0
+From2 0 0
+From3 1 1
+From4 116 650
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://vk.com/id29105482 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 21 0
+404 10 91584
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 2
+/trafficbasedsspsitemap.xml 8 -
+/sites/default/files/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 3
+194.187.148.218 114 228 3634799 20130312200951
+91.214.128.18 12 396 1767979 20130317232238
+80.242.98.245 1 39 769183 20130317233043
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20130312 114 228 3634799 2
+20130316 4 104 554217 1
+20130317 9 331 1982945 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+15mn-30mn 2
+2mn-5mn 1
+0s-30s 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 32
+/content/kafedra-gosudarstvennogo-i-regionalnogo-upravleniya 21 442860 0 2
+/content/kafedra-menedzhmenta-i-marketinga 15 229095 0 0
+/ckeditor/xss 11 109113 0 0
+/ 10 199106 2 1
+/content/struktura 10 231051 0 1
+/node/26/edit 7 351090 1 0
+/admin/content 6 222179 0 0
+/node/27/edit 5 199448 0 0
+/user/1 4 78879 0 0
+/user 4 46723 1 0
+/content/raspisanie 1 10643 0 0
+/content/doska-obyavleniy 3 32151 0 0
+/admin/structure 3 35460 0 0
+/content/nauchnaya-deyatelnost 1 20421 0 0
+/admin/structure/views/view/slide_show/edit 1 42331 0 0
+/content/konferencii 1 18622 0 0
+/content/effektivnoe-upravlenie-ekonomikoy 1 17743 1 1
+/admin/dashboard 1 20271 0 0
+/node/6/edit 1 49212 0 0
+/contact 1 12029 0 0
+/admin/modules 1 83875 0 0
+/admin/structure/views 1 30739 0 0
+/content/abiturientam 1 11016 0 0
+/forumy/forum 2 20382 0 0
+/content/about 2 27616 0 0
+/content/vypusknikam 3 32277 0 0
+/admin/structure/views/ajax/display/slide_show/block/style_options 1 64345 0 0
+/node/add/page 2 69588 0 0
+/content/dekanat 1 10980 0 0
+/content/nash-dosug 2 21262 0 0
+/news 2 24336 0 0
+/node/add 2 21858 0 0
+END_SIDER

@@ -1,0 +1,397 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201307 will be lost/reset.
+# Last config file used to build this data file was /usr/local/etc/awstats/awstats.manager.crimea.edu.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2008                
+POS_TIME 2687                
+POS_VISITOR 7475                
+POS_DAY 10278               
+POS_DOMAIN 3403                
+POS_LOGIN 3635                
+POS_ROBOT 3790                
+POS_WORMS 4109                
+POS_EMAILSENDER 4240                
+POS_EMAILRECEIVER 4383                
+POS_SESSION 10656               
+POS_SIDER 10835               
+POS_FILETYPES 4518                
+POS_DOWNLOADS 4737                
+POS_OS 4808                
+POS_BROWSER 4912                
+POS_SCREENSIZE 5230                
+POS_UNKNOWNREFERER 5304                
+POS_UNKNOWNREFERERBROWSER 5596                
+POS_ORIGIN 5678                
+POS_SEREFERRALS 5818                
+POS_PAGEREFS 5984                
+POS_SEARCHWORDS 6348                
+POS_KEYWORDS 6719                
+POS_MISC 2351                
+POS_ERRORS 7003                
+POS_CLUSTER 3491                
+POS_SIDER_404 7090                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130713230236 81 18264 13060858652037
+FirstTime 20130701090556
+LastTime 20130713230235
+LastUpdate 20130714000222 81 0 81 0 0
+TotalVisits 49                  
+TotalUnique 43                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 84                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 25 421644 3 4 25020
+1 0 0 0 8 12 47229
+2 0 0 0 7 24 105690
+3 0 0 0 5 9 32114
+4 1 25 421643 5 8 27313
+5 0 0 0 5 8 25743
+6 0 0 0 6 10 29648
+7 1 24 417922 14 18 67121
+8 10 34 523572 3 4 15752
+9 10 88 1391389 7 11 45054
+10 34 90 1169550 3 15 232495
+11 17 152 2381975 0 0 0
+12 3 73 1143193 2 4 12552
+13 15 120 2035324 12 16 61212
+14 2 49 836990 0 1 1561
+15 14 92 1071606 1 3 6662
+16 12 91 1485509 3 4 15027
+17 1 25 421643 5 9 25801
+18 2 25 457555 2 3 6157
+19 1 25 421648 10 12 47073
+20 7 73 1204254 4 7 19401
+21 3 72 1253765 0 1 1561
+22 17 71 1078787 11 17 60396
+23 5 111 1618917 3 5 13999
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 156 1265 19756886
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+bot[\s_+:,\.\;\/\\-] 69 226833 20130713203809 32
+googlebot 61 434927 20130711233043 9
+yandex 34 121986 20130712053723 14
+crawl 17 56077 20130713073214 5
+mj12bot 16 62813 20130705073202 4
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 235 1549810 0 0
+png 476 1714640 0 0
+ico 39 43700 0 0
+html 63 365951 0 0
+jpg 140 7062371 0 0
+js 170 8221032 0 0
+Unknown 93 428192 0 0
+gif 49 371190 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 60 0 93660
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 6
+macosx 25
+linuxandroid 25
+winxp 403
+Unknown 58
+linux 62
+win7 692
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 16
+msie6.0 125
+android 25
+firefox21.0 24
+safari6.0 25
+chrome28.0.1500.71 72
+opera9.80 277
+msie8.0 39
+chrome27.0.1453.95 26
+chrome24.0.1312.56 24
+firefox22.0 221
+msie7.0 2
+firefox16.0 33
+chrome25.0.1364.172 95
+chrome28.0.1500.52 24
+chrome27.0.1453.116 229
+firefox19.0 24
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Opera/9.80_(Android;_Opera_Mini/7.5.32193/30.3389;_U;_ru)_Presto/2.8.119_Version/11.10 20130705144210
+Opera/9.80_(S60;_SymbOS;_Opera_Mobi/SYB-1111151949;_U;_ru)_Presto/2.9.201_Version/11.50 20130705163309
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 8 34
+From1 0 0
+From2 12 12
+From3 36 36
+From4 100 1183
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 7 7
+yandex 5 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://www.crimea.edu/sait/index.html 22 22
+http://www.tnu.crimea.edu/sait/index.html 11 11
+http://yandex.ua/yandsearch 1 1
+http://info.crimea.edu/tnu/sait/index.html 1 1
+http://www.tnu.crimea.ua/sait/index.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+manager.crimea.edu 5
+%d1%80%d0%b0%d1%81%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5+%d0%a4%d0%b0%d0%ba%d1%83%d0%bb%d1%8c%d1%82%d0%b5%d1%82+%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f+%d0%a2%d0%9d%d0%a3 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 5
+manager.crimea.edu 5
+%d0%a2%d0%9d%d0%a3 2
+%d1%80%d0%b0%d1%81%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5 2
+%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f 2
+%d0%a4%d0%b0%d0%ba%d1%83%d0%bb%d1%8c%d1%82%d0%b5%d1%82 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 7 21945
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 3
+/sites/default/files/ 1 -
+/content/informaciya-dlya-abiturientov 5 -
+/a 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 84
+91.189.129.22 19 47 594543 20130701105936
+31.135.114.203 17 65 1024572 20130707113824
+94.230.237.16 15 43 575007 20130702100355
+159.224.228.195 14 41 594099 20130704220333
+195.114.7.162 10 38 552721 20130711151552
+37.55.118.209 7 37 524262 20130708130154
+80.245.119.130 6 79 1277556 20130711121825
+194.187.148.220 5 33 531755 20130709091857
+195.49.200.110 4 29 487873 20130705164251
+46.242.95.141 4 100 1686580 20130710195846
+94.153.248.220 2 26 458705 20130702113648
+46.211.181.211 0 1 0 
+46.211.181.194 0 2 7518 
+81.162.64.104 1 24 417923 20130708225536
+46.211.181.228 1 1 6314 20130709111926
+81.162.236.133 1 18 340970 20130711205521
+81.23.24.109 0 1 0 
+46.211.181.237 1 1 6310 20130706153246
+94.248.33.45 1 24 417925 20130712123825
+195.54.42.94 2 28 486509 20130707131341
+81.23.24.116 0 1 0 
+91.214.130.4 1 24 417927 20130710114120
+46.211.181.205 0 1 0 
+37.73.248.39 2 38 361423 20130712233357
+46.211.181.239 1 2 6310 20130706153006
+95.134.210.47 2 19 352706 20130711201143
+81.23.24.104 0 1 4425 
+46.211.181.230 0 1 0 
+46.211.181.231 0 1 1150 
+91.207.98.32 1 24 417925 20130713230235 20130713230235 /
+46.211.181.220 0 2 0 
+46.211.181.203 0 1 115147 
+46.211.181.197 0 2 27698 
+195.110.7.165 3 31 530565 20130709115919
+194.187.148.222 1 24 417923 20130711211416
+46.211.181.199 0 2 0 
+81.23.24.99 0 2 0 
+130.185.61.150 3 30 484686 20130712222051
+46.211.181.214 0 2 22911 
+46.211.181.225 0 2 8581 
+46.211.181.234 0 1 334 
+46.211.181.247 0 1 2823 
+46.211.181.238 0 1 0 
+178.16.82.176 2 26 458713 20130710110950
+91.224.168.3 1 24 417921 20130704212535
+46.211.181.248 0 2 333 
+81.23.24.123 0 1 0 
+91.224.87.237 1 24 417924 20130703232049
+81.23.24.115 0 1 1992 
+46.211.181.218 0 3 0 
+81.23.24.114 1 1 8751 20130709111914
+46.211.181.212 0 2 0 
+46.211.181.193 0 2 38028 
+46.211.181.204 0 1 1459 
+194.247.17.249 2 25 457555 20130702184056
+94.230.229.20 4 36 510578 20130710203704
+81.23.24.124 0 1 0 
+46.211.181.223 1 1 3932 20130706154854
+46.211.181.213 1 1 6303 20130702140944
+81.23.24.125 0 1 0 
+82.145.211.42 1 25 419074 20130705144200
+46.211.181.243 0 1 0 
+81.23.24.102 0 4 43702 
+178.133.188.114 1 4 39048 20130705163304
+91.207.98.167 4 28 459216 20130704132911
+81.23.24.121 0 1 0 
+81.23.24.111 0 1 190 
+46.211.181.215 0 1 0 
+95.143.24.1 1 25 421643 20130704043131
+81.23.24.106 0 1 245 
+46.211.181.201 0 1 0 
+46.211.181.196 0 1 24947 
+178.133.230.249 3 29 468015 20130705160656
+94.153.119.242 2 25 417924 20130711133314
+46.211.181.245 0 1 2916 
+46.211.181.242 0 2 14345 
+46.211.181.241 0 1 0 
+46.211.181.233 0 1 0 
+46.201.226.35 1 27 454759 20130711135932
+46.211.181.202 0 1 110588 
+80.245.119.132 1 24 417922 20130702070704
+46.211.181.217 0 1 19331 
+91.214.128.22 1 28 465283 20130704155903
+91.214.128.7 4 29 490573 20130713162733
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 13
+20130701 23 78 1036255 2
+20130702 21 142 2327105 5
+20130703 1 24 417924 1
+20130704 22 170 2776084 6
+20130705 10 112 1835653 5
+20130706 4 51 475247 4
+20130707 19 93 1511081 3
+20130708 8 61 942185 2
+20130709 11 103 1499029 5
+20130710 8 111 1808866 4
+20130711 18 175 2954925 7
+20130712 6 92 1264034 3
+20130713 5 53 908498 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 2
+30s-2mn 12
+2mn-5mn 5
+0s-30s 29
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 22
+/ 63 365951 43 27
+/content/abiturientam 13 40893 1 1
+/content/about 13 52022 0 1
+/news 11 38195 0 3
+/content/struktura 9 56774 0 2
+/content/pravila-priema-tavricheskogo-nacionalnogo-universiteta-imeni-vi-vernadskogo-v-2013-godu 6 22430 0 3
+/contact 6 22372 0 3
+/content/vypusknikam 6 21688 0 0
+/content/napravleniya-i-specialnosti-fakulteta 5 19656 1 1
+/content/kafedra-menedzhmenta-vneshneekonomicheskoy-deyatelnosti 4 46937 2 2
+/content/raspisanie 2 7050 1 1
+/content/poslediplomnoe-obrazovanie 1 3741 0 0
+/content/aspirantura 1 3739 0 0
+/content/kafedra-gosudarstvennogo-i-regionalnogo-upravleniya 3 26247 1 1
+/content/zaochnoe-otdelenie 1 3733 0 0
+/content/kafedra-menedzhmenta-i-marketinga 1 5411 0 0
+/content/o-predvaritelnom-otbore-studentov-na-sovmestnuyu-magisterskuyu-programmu 2 8113 0 1
+/content/kafedra-menedzhmenta-predprinimatelskoy-deyatelnosti 1 16576 0 1
+/content/nabor-v-angloyazychnuyu-norvezhsko-ukrainskuyu-magistraturu 2 8123 0 0
+/content/novyy-sayt-fakulteta-upravleniya 2 7503 0 1
+/content/specialnosti-i-specializacii 3 11212 0 0
+/content/mezhdunarodnye-proekty 1 5777 0 0
+END_SIDER

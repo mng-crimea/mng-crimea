@@ -1,0 +1,20 @@
+
+name = fm
+description = Шаблон дизайна сайта ТНУ им. В.И. Вернадского
+version = 1.0
+core = 7.x
+engine = phptemplate
+stylesheets[all][] = stylesheets.css
+
+stylesheets[all][] = css/style.css
+
+regions[header_logo] = Header logo
+regions[header_right] = Header right
+regions[header_menu] = Top menu
+regions[language_box] = Lang box
+regions[search_box] = Search box
+regions[left_menu] = Left menu
+regions[content] = Content
+regions[left_menu_contacts] = Left menu contacts
+regions[content_front] = Front page
+regions[footer] = Footer
